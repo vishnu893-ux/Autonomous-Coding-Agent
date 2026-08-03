@@ -28,16 +28,20 @@ test.py
 generated/
 ```
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Run
 
+Activate the virtual environment first.
+
+### Windows
+
 ```bash
-streamlit run app.py
+.\.venv\Scripts\activate
+```
+
+Then run:
+
+```bash
+python -m streamlit run app.py
 ```
 
 ## Future Enhancements
