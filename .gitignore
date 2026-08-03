@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated Files
+generated/generated_code.py
+generated/documentation.md
+
+# VS Code
+.vscode/
